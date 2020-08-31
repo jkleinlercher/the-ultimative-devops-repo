@@ -10,3 +10,8 @@ now it is just a reading/resource list:
 - https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment
 - https://www.infoq.com/presentations/kubernetes-adoption-foundation/
 - https://techbeacon.com/devops/why-you-should-hire-devops-enablers-not-experts
+
+
+## What is DevOps
+
+- https://www.youtube.com/watch?v=MnyvgFDh-kw
