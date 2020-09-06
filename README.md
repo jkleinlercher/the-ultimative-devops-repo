@@ -15,3 +15,8 @@ now it is just a reading/resource list:
 ## What is DevOps
 
 - https://www.youtube.com/watch?v=MnyvgFDh-kw
+
+## all about platforms
+
+- http://www.eferro.net/2020/08/resources-for-product-management-for.html
+
