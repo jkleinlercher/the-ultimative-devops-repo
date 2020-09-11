@@ -23,6 +23,7 @@ now it is just a reading/resource list:
 ## all about platforms
 
 - http://www.eferro.net/2020/08/resources-for-product-management-for.html
+- https://kislayverma.com/organizations/a-case-against-platform-teams/
 
 ## product management
 
