@@ -28,3 +28,8 @@ now it is just a reading/resource list:
 
 - https://www.youtube.com/watch?v=yUOC-Y0f5ZQ&feature=youtu.be
 - https://www.youtube.com/watch?v=ZUwo8tKoYnQ
+
+
+# others
+
+- https://emilyfreeman.io/
