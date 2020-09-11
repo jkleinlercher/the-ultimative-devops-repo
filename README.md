@@ -11,6 +11,10 @@ now it is just a reading/resource list:
 - https://www.infoq.com/presentations/kubernetes-adoption-foundation/
 - https://techbeacon.com/devops/why-you-should-hire-devops-enablers-not-experts
 
+## Agile
+
+- https://proagile.de/toolbox/
+- https://dandypeople.com/blog/free-kit-agile-in-a-nutshell-poster/
 
 ## What is DevOps
 
@@ -20,3 +24,7 @@ now it is just a reading/resource list:
 
 - http://www.eferro.net/2020/08/resources-for-product-management-for.html
 
+## product management
+
+- https://www.youtube.com/watch?v=yUOC-Y0f5ZQ&feature=youtu.be
+- https://www.youtube.com/watch?v=ZUwo8tKoYnQ
