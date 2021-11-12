@@ -20,10 +20,12 @@ now it is just a reading/resource list:
 
 - https://www.youtube.com/watch?v=MnyvgFDh-kw
 
+
 ## all about platforms
 
 - http://www.eferro.net/2020/08/resources-for-product-management-for.html
 - https://kislayverma.com/organizations/a-case-against-platform-teams/
+
 
 ## product management
 
@@ -34,3 +36,4 @@ now it is just a reading/resource list:
 # others
 
 - https://emilyfreeman.io/
+- https://videos.itrevolution.com/ 
