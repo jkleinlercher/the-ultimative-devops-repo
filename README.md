@@ -25,7 +25,7 @@ now it is just a reading/resource list:
 
 - http://www.eferro.net/2020/08/resources-for-product-management-for.html
 - https://kislayverma.com/organizations/a-case-against-platform-teams/
-
+- Platform Engineers Munich: https://meetu.ps/c/4M6Rm/PKMDy/a
 
 ## product management
 
