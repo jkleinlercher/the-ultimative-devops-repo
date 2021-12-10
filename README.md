@@ -37,3 +37,7 @@ now it is just a reading/resource list:
 
 - https://emilyfreeman.io/
 - https://videos.itrevolution.com/ 
+
+# gitops 
+
+- https://opengitops.dev/
