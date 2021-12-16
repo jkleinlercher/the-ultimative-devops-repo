@@ -37,6 +37,15 @@ now it is just a reading/resource list:
 - https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/
 - https://www.infoq.com/articles/platform-engineering-as-community-service/
 - https://www.youtube.com/watch?app=desktop&v=kjlrKZVNz5c#dialog
+- http://v1.uncontained.io/playbooks/fundamentals/openshift_roles_responsibilities.html
+- https://martinfowler.com/articles/talk-about-platforms.html
+- http://www.kovarus.com/article/platform-engineering/
+- https://web.devopstopologies.com/
+- https://medium.com/faun/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8
+- https://xebia.com/blog/devops-topology-right/
+- https://cote.io/2016/03/28/roles-and-responsibilities-for-devops-and-agile-teams/
+- https://teamtopologies.com/
+- https://martinfowler.com/articles/products-over-projects.html#OtherConsiderations
 
 ## product management
 
