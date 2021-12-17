@@ -75,4 +75,22 @@ now it is just a reading/resource list:
 # Scaled Agile and TT
 
 - https://www.youtube.com/watch?v=gXw0zi2rCGk
-- 
+
+
+# Tutorials:
+
+- https://apaarshrm39.medium.com/k8s-speed-run-how-i-aced-ck-ad-s-in-35-days-with-a-day-occasionally-night-job-fbf60d2ebe0c
+- https://www.thoughtworks.com/insights/blog/adopting-digital-platform-strategy-iterative-approach
+- https://www.youtube.com/watch?v=Zq2VcRZmz78&feature=youtu.be
+- https://itrevolution.com/ways-of-working-how-we-got-here/
+- https://cutle.fish/
+- https://headstorm.com/20-10-10-exercise/
+- https://www.linkedin.com/posts/amazon-web-services_what-is-a-decision-based-strategy-and-what-activity-6726951731655147520-ilhl
+- https://www.atlassian.com/itsm/itil/devops-vs-itil
+- https://metapm.com.au/wp-content/uploads/2018/03/ITIL-and-DevOps-Whitepaper.pdf
+- https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015
+- https://www.youtube.com/watch?v=F1vkEddUVUI&feature=youtu.be
+- https://www.youtube.com/watch?v=-StF1Mrmaak&feature=youtu.be
+- https://github.com/git-learning-game/oh-my-git
+- scrum retro: retromat and teamretro
+- git tutorials
