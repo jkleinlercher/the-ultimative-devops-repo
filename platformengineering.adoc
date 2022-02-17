@@ -47,6 +47,15 @@ splunk
 dynatrace
 
 
+How platforms should be implemented 
+
+- iterative and incrementel
+- Start with a minimum
+- Start with reference users 
+- with product management methods 
+- Team Topologies mindset
+Tbd
+
 References:
 
 https://martinfowler.com/articles/talk-about-platforms.html
