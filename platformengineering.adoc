@@ -1,0 +1,7 @@
+platform engineering
+
+platform engineering is a popular devops discipline where modern platforms are designed and implemented to host applications.
+modern platforms usually have the following capabilities:
+
+- fully api-driven so that platform services can be instantiated and consumed by its platform users
+- scalability and high-availability features allow applications to scale and recover from failures
