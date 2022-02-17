@@ -3,5 +3,55 @@ platform engineering
 platform engineering is a popular devops discipline where modern platforms are designed and implemented to host applications.
 modern platforms usually have the following capabilities:
 
-- fully api-driven so that platform services can be instantiated and consumed by its platform users
+- provisioning and configuration of the platform services is fully automated and api-driven so that platform services can be instantiated and consumed by its platform users
 - scalability and high-availability features allow applications to scale and recover from failures
+
+Nowadays the foundation for modern platforms is often Kubernetes. However, Kubernetes (K8s) by itself is not a platform but a platform to build platforms. In addition to vanilla K8s modern platforms try to:
+
+- hide the complexity K8s has due to its open flexible architecture. Platforms should reduce the cognitive load from users (often dev teams, app teams, stream-aligned teams). Therefor platforms should build an (open) abstraction layer with golden paths where the right things should be easy. Although, when needed, a user should be allowed to break out of the golden path and implement his own special solution as long as the user takes responsibility of his solution. The platform, however, should not stop him to do so. So golden paths are no golden cages.
+- prevent antipatterns like snowflake infrastructure out-of-the-box. that is way methods like gitops where invented.
+- include compliance-as-code tooling, so that company-wide compliance rules are enforced
+- include quality checks and good practice scanner, so that failures or bad configurations are prevented. if not enforced, at least show those quality statistics as code quality metrics in your pipeline.
+- include a CD pipeline so applications and configurations are deployed in a managed, auditable fashion. A gitops approach provides a good basis for this.
+- include modern observability tools, which help you to identify and solve outages or service degradations. for best user experience try to auto-remediate every problem which can be easily solved. K8s with its liveness checks and reconciliation loop already tries its best for most of the easy problems.
+- include secrets management tools, where passwords, privates keys, certificates etc. can be stored savely. Be aware that K8s secrets are just base64 encoded and can easily be decoded by anyone. especially with a gitops apporach take care and do not store secrets in git.
+- take care about architectural requirements like multi-tenancy, applications isolation, reciliency and special security requirements
+- take care about capacity, so that additional capacity is always available when new applications get deployed or the load on existing applications increases. Additionally, metrics for developers if their applications are greedy and need unexpected resources or reserve capacity they do not need, helps developers to take care about their resource usage
+- have a good developer experience, since very often developers are the customers of the platform. Again, a gitops approach could help here, since developers are used to work with git based version control systems.
+- optionally provide a pay-per-use model, to give customers of the platform a cloud like experience where high initial investments are very unlikely or at least does not match the cloud DNA.
+- provide an API to create K8s cluster and other resources outside of K8s cluster on demand, if needed
+- provide tools to increase security (vulnerability scanner, intrusion detection and prevention)
+
+
+So modern platforms are much more than K8s itself but include lots of tools in and outside of K8s. Key design criterias for those tools should be:
+
+- should apply to the platform/apps model, which means base configurations and installation should be made by platform teams and application specific configuration and usage of the tools should be made by application teams
+- base platform and the tools should be combined in a manner that everything together should have a look-and-feel like a well designed product. 
+- they should all be api driven and able to be hidden behind an easy to understand abstraction layer and programmable combined together. E.g. when deploying a new app, dashboards for this app should automatically be available in the observability tool with the same naming.
+- of course secure, stable and in active development with either professional support or an active and helpful community
+
+Available Tools:
+
+K8s managed (Rancher, VMWare TKG,...)
+argocd
+gitlab
+gitlab-ci
+artifactory
+xray
+helm
+conftest
+kube-score
+bitnami sealed-secrets
+velero and restic
+splunk
+dynatrace
+
+
+References:
+
+https://martinfowler.com/articles/talk-about-platforms.html
+https://academy.teamtopologies.com/bundles/platform-bundle
+
+
+
+
