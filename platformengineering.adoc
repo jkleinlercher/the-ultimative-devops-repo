@@ -1,4 +1,4 @@
-platform engineering
+# platform engineering
 
 platform engineering is a popular devops discipline where modern platforms are designed and implemented to host applications.
 modern platforms usually have the following capabilities:
@@ -30,7 +30,7 @@ So modern platforms are much more than K8s itself but include lots of tools in a
 - they should all be api driven and able to be hidden behind an easy to understand abstraction layer and programmable combined together. E.g. when deploying a new app, dashboards for this app should automatically be available in the observability tool with the same naming.
 - of course secure, stable and in active development with either professional support or an active and helpful community
 
-Building blocks and solutions:
+# Building blocks and solutions:
 
 ## base platform
 K8s managed (Rancher, VMWare TKG,...)
