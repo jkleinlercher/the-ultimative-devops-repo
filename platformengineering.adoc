@@ -30,37 +30,57 @@ So modern platforms are much more than K8s itself but include lots of tools in a
 - they should all be api driven and able to be hidden behind an easy to understand abstraction layer and programmable combined together. E.g. when deploying a new app, dashboards for this app should automatically be available in the observability tool with the same naming.
 - of course secure, stable and in active development with either professional support or an active and helpful community
 
-Available Tools:
+Building blocks and solutions:
 
+## base platform
 K8s managed (Rancher, VMWare TKG,...)
-argocd
+
+## version control system 
 gitlab
+
+## pipeline
 gitlab-ci
+
+## docker registry and helm repo
 artifactory
+
+## code scanner 
 xray
+
+## K8s package manager 
 helm
+
+## compliance as code
 conftest
+
+## K8s linting 
 kube-score
+
+## secrets management 
 bitnami sealed-secrets
+
+## backup 
 velero and restic
+
+## observability
 splunk
 dynatrace
 
 
-How platforms should be implemented 
+# How platforms should be implemented 
 
 - iterative and incrementel
 - Start with a minimum
-- Start with reference users 
+- Start with reference customer 
 - with product management methods 
 - Team Topologies mindset
+- try inner source models to interact with your customers and drive the platform further 
 Tbd
 
 References:
 
 https://martinfowler.com/articles/talk-about-platforms.html
 https://academy.teamtopologies.com/bundles/platform-bundle
-
-
+https://twitter.com/danielbryantuk/status/1494614250567966732?s=21
 
 
