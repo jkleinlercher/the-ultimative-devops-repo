@@ -83,5 +83,5 @@ https://martinfowler.com/articles/talk-about-platforms.html
 https://academy.teamtopologies.com/bundles/platform-bundle
 https://internaldeveloperplatform.org/
 https://twitter.com/danielbryantuk/status/1494614250567966732?s=21
-
+https://skamille.medium.com/product-for-internal-platforms-9205c3a08142
 
