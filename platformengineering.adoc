@@ -33,7 +33,8 @@ So modern platforms are much more than K8s itself but include lots of tools in a
 # Building blocks and solutions:
 
 ## base platform
-K8s managed (Rancher, VMWare TKG,...)
+- K8s managed (Rancher, VMWare TKG,...)
+- public cloud provider (AWS, Google, Azure)
 
 ## version control system 
 gitlab
