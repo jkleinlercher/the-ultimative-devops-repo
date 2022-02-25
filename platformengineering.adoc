@@ -53,6 +53,7 @@ helm
 
 ## compliance as code
 conftest
+https://github.com/armosec/kubescape
 
 ## K8s linting 
 kube-score
