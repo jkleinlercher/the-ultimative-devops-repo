@@ -1,3 +1,11 @@
 # Git Fundamentals
 
 - https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
+
+# GitHub Actions
+
+- https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
+
+# Terraform
+
+- https://www.terraform.io/
