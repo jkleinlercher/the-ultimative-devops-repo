@@ -9,3 +9,9 @@
 # Terraform
 
 - https://www.terraform.io/
+
+# AWS Cloud Services
+
+- https://aws.amazon.com/de/route53/
+- https://aws.amazon.com/elasticloadbalancing/network-load-balancer/
+- https://aws.amazon.com/elasticloadbalancing/application-load-balancer/
