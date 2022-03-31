@@ -15,3 +15,12 @@
 - https://aws.amazon.com/de/route53/
 - https://aws.amazon.com/elasticloadbalancing/network-load-balancer/
 - https://aws.amazon.com/elasticloadbalancing/application-load-balancer/
+
+
+# Tools
+
+- vscode
+- sourcetree
+- colima 
+- k9s
+- lima 
