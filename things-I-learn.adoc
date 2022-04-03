@@ -19,8 +19,12 @@
 
 # Tools
 
-- vscode
+- vscode (with gitlens and git graph)
 - sourcetree
 - colima 
 - k9s
 - lima 
+
+# Other
+
+- https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/
