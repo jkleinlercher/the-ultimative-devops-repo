@@ -24,6 +24,8 @@
 - colima 
 - k9s
 - lima 
+- miro
+- https://app.excalidraw.com
 
 # Other
 
