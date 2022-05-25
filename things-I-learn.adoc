@@ -29,7 +29,7 @@
 
 # docker
 
-- docker bake
+- docker bake ( https://docs.docker.com/engine/reference/commandline/buildx_bake/ )
 
 # Other
 
