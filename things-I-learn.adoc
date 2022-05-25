@@ -15,7 +15,7 @@
 - https://aws.amazon.com/de/route53/
 - https://aws.amazon.com/elasticloadbalancing/network-load-balancer/
 - https://aws.amazon.com/elasticloadbalancing/application-load-balancer/
-
+- SystemOps on AWS ( https://aws.amazon.com/de/training/classroom/systems-operations-on-aws/ ) and AWS technical essentials ( https://aws.amazon.com/de/training/classroom/aws-technical-essentials/ )
 
 # Tools
 
@@ -26,6 +26,10 @@
 - lima 
 - miro
 - https://app.excalidraw.com
+
+# docker
+
+- docker bake
 
 # Other
 
