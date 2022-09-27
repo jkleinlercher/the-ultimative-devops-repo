@@ -95,10 +95,7 @@ now it is just a reading/resource list:
 - https://github.com/git-learning-game/oh-my-git
 - scrum retro: retromat and teamretro
 - git tutorials
-
-
-Kubernetes
-
 - CIVO kubernetes academy: https://www.civo.com/academy
 - https://github.com/MichaelCade/90DaysOfDevOps
 - loft: https://loft.sh/blog --> multi-tenancy with vcluster
+- https://www.techworld-with-nana.com/devops-bootcamp
