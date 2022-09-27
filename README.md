@@ -101,3 +101,4 @@ Kubernetes
 
 - CIVO kubernetes academy: https://www.civo.com/academy
 - https://github.com/MichaelCade/90DaysOfDevOps
+- loft: https://loft.sh/blog
