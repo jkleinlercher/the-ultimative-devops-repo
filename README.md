@@ -99,3 +99,8 @@ now it is just a reading/resource list:
 - https://github.com/MichaelCade/90DaysOfDevOps
 - loft: https://loft.sh/blog --> multi-tenancy with vcluster
 - https://www.techworld-with-nana.com/devops-bootcamp
+
+
+Community:
+
+- https://cloud-native.slack.com/archives/CL3SL0CP5
