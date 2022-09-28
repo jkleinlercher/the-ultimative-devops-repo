@@ -103,4 +103,4 @@ now it is just a reading/resource list:
 
 Community:
 
-- https://cloud-native.slack.com/archives/CL3SL0CP5
+- cncf tag app delivery: https://cloud-native.slack.com/archives/CL3SL0CP5
