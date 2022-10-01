@@ -101,11 +101,11 @@ now it is just a reading/resource list:
 - https://www.techworld-with-nana.com/devops-bootcamp
 
 
-Community:
+# Community:
 
 - cncf tag app delivery: https://cloud-native.slack.com/archives/CL3SL0CP5
 - https://platformengineering.org/
 
-install k8s on laptop:
+# install k8s on laptop:
 
-— https://www.digestibledevops.com/devops/2021/03/24/k3d-on-windows.html
+- https://www.digestibledevops.com/devops/2021/03/24/k3d-on-windows.html
