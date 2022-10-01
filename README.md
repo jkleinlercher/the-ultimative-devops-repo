@@ -104,4 +104,8 @@ now it is just a reading/resource list:
 Community:
 
 - cncf tag app delivery: https://cloud-native.slack.com/archives/CL3SL0CP5
-- https://platformengineering.org//
+- https://platformengineering.org/
+
+install k8s on laptop:
+
+— https://www.digestibledevops.com/devops/2021/03/24/k3d-on-windows.html
