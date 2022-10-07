@@ -94,12 +94,16 @@ now it is just a reading/resource list:
 - https://www.youtube.com/watch?v=-StF1Mrmaak&feature=youtu.be
 - https://github.com/git-learning-game/oh-my-git
 - scrum retro: retromat and teamretro
-- git tutorials
 - CIVO kubernetes academy: https://www.civo.com/academy
 - https://github.com/MichaelCade/90DaysOfDevOps
 - loft: https://loft.sh/blog --> multi-tenancy with vcluster
 - https://www.techworld-with-nana.com/devops-bootcamp
 
+## git
+
+- https://learngitbranching.js.org/
+- https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
+- https://www.udemy.com/course/git-and-github-complete-guide
 
 # Community:
 
