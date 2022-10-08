@@ -104,6 +104,7 @@ now it is just a reading/resource list:
 - https://learngitbranching.js.org/
 - https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
 - https://www.udemy.com/course/git-and-github-complete-guide
+- https://ohshitgit.com/
 
 # Community:
 
