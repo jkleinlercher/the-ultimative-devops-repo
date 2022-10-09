@@ -114,3 +114,8 @@ now it is just a reading/resource list:
 # install k8s on laptop:
 
 - https://www.digestibledevops.com/devops/2021/03/24/k3d-on-windows.html
+
+
+# Chaos Engineering
+
+- https://litmuschaos.io/
