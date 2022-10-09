@@ -109,6 +109,7 @@ now it is just a reading/resource list:
 # Community:
 
 - cncf tag app delivery: https://cloud-native.slack.com/archives/CL3SL0CP5
+- https://github.com/cncf/tag-app-delivery/blob/main/cooperative-delivery-wg/charter/README.md
 - https://platformengineering.org/
 
 # install k8s on laptop:
