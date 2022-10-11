@@ -120,3 +120,7 @@ now it is just a reading/resource list:
 # Chaos Engineering
 
 - https://litmuschaos.io/
+
+# K8s Capacity Planing
+
+- https://www.perfectscale.io/blog/8-tips-for-rightsizing-your-kubernetes
