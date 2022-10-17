@@ -47,6 +47,8 @@ now it is just a reading/resource list:
 - https://teamtopologies.com/
 - https://martinfowler.com/articles/products-over-projects.html#OtherConsiderations
 - https://www.linkedin.com/in/janbosch/recent-activity/posts/ (lots of platform lessons posts)
+- https://github.com/cncf/tag-app-delivery/tree/main/platforms-wg
+
 
 ## product management
 
@@ -111,6 +113,7 @@ now it is just a reading/resource list:
 - cncf tag app delivery: https://cloud-native.slack.com/archives/CL3SL0CP5
 - https://github.com/cncf/tag-app-delivery/blob/main/cooperative-delivery-wg/charter/README.md
 - https://platformengineering.org/
+- https://github.com/cncf/tag-app-delivery/tree/main/platforms-wg
 
 # install k8s on laptop:
 
